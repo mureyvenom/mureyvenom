@@ -4,7 +4,7 @@ I am a passionate and innovative software engineer always looking to combine exc
 I thourougly enjoy taking on new challenges as it keeps me on my toes and helps me to keep finding new ways to produce efficient applications and continue improving on my skills as well as gaining more knowledge.
 Anytime I'm away from my laptop I'm most likely watching, discussing or listening to something football, formula one and tech.
 
-Technologies I use include  HTML 5, Css, JavaScript, JQuery, Bootstrap, React, React Bootstrap, React Native, PHP, MySQL, NodeJS, ExpressJS, MongoDB, Tailwind CSS, TypeScript and NextJS
+Technologies I use include  HTML 5, CSS, JavaScript, JQuery, Bootstrap, React, React Bootstrap, React Native, Tailwind CSS, TypeScript and NextJS
 
 <!---
 mureyvenom/mureyvenom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
